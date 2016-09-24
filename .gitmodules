@@ -1,0 +1,6 @@
+[submodule "Tagger"]
+	path = Tagger
+	url = git@github.com:betoesquivel/datakind_wefarm_lambda_tagme_tagger.git
+[submodule "Dispatcher"]
+	path = Dispatcher
+	url = git@github.com:betoesquivel/datakind_wefarm_lambda_job_dispatcher.git
